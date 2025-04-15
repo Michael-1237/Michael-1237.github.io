@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-Michael's Homepage
+Michael's home page
 
 I’m a Ph.D. candidate in Theoretical and Computational Science at the University of Lethbridge, where I spend my days (and often nights) wrestling with some of the biggest questions in physics: How does time emerge from the quantum universe? Why does entropy always increase? And what does quantum gravity have to say about it all?
 
